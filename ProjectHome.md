@@ -1,0 +1,1 @@
+Provides implementation for sessions, using Google App Engine and Django
